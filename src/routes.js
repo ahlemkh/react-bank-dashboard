@@ -45,6 +45,6 @@ var routes = [
   {
     name: "Settings",
     icon: "nc-icon nc-settings-gear-65",
-  },
+  }
 ];
 export default routes;
