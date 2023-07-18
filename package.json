@@ -10,12 +10,10 @@
     "jquery": "3.6.0",
     "mapbox-gl": "^2.14.1",
     "perfect-scrollbar": "1.5.5",
-    "react": "18.2.0",
-    "react-chartjs-2": "3.0.3",
     "highcharts": "^11.0.1",
     "highcharts-react-official": "^3.2.0",
+    "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-notification-alert": "0.0.13",
     "react-router-dom": "5.2.0",
     "react-scripts": "5.0.1",
     "reactstrap": "8.7.1",
@@ -35,10 +33,10 @@
     "extends": "react-app"
   },
   "peerDependencies": {
-    "react": ">=16.8.0",
-    "react-dom": ">=16.8.0"
-  },
-  "browserslist": [
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+},
+"browserslist": [
     ">0.2%",
     "not dead",
     "not ie <= 11",
